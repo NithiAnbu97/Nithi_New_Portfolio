@@ -100,7 +100,7 @@ export function Projects() {
                   live_demo={live_demo}
                   source_code={source_code}
                 />
-              );
+              );      
             } else
               return (
                 <Rightproject
